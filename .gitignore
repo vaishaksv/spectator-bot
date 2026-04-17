@@ -1,2 +1,5 @@
-node_modules
+node_modules/
 .env
+firebase-service-account.json
+*.xlsx
+/tmp/
